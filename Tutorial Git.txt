@@ -1,0 +1,3 @@
+Para iniciar > Botão direito > Git Bash Here
+
+Comando inicial > git init
